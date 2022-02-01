@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  微博一键清空[动态|关注|粉丝|收藏]
 // @author       hbc007
+// @license      GNU GPLv3
 // @match        https://weibo.com
 // @match        https://weibo.com/*
 // @icon         https://weibo.com/favicon.ico
